@@ -1,5 +1,5 @@
 # calc_x-n-stack-height-logn-
-
+// calc x^n(stack height=logn)
 import java.util.*;
 public class Main {
 public static int calcPower(int x,int n){
